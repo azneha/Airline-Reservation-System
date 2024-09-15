@@ -1,3 +1,8 @@
 # Airline-Reservation-System
-An SQL-based airline reservation system designed to manage flight bookings, passenger details, and scheduling. It features tables for flights, passengers, and reservations, with functionality for querying, updating, and maintaining flight and booking data.
-https://sqlfiddle.com/mysql/online-compiler?id=e1a77d49-0b1f-499c-8766-ca7775db1f40
+Developed an advanced Airline Reservation System to streamline flight bookings and manage overbooking efficiently. Key enhancements included implementing a tiered Frequent Flyer Program with Gold, Silver, and Bronze levels, which rewarded customer loyalty through points accumulation. Introduced a dynamic overbooking management system to handle and compensate for overbooked flights. Optimized database performance with robust SQL queries for managing flight schedules and passenger data. The project led to improved customer satisfaction, operational efficiency, and data-driven decision-making, ultimately enhancing the overall user experience and operational effectiveness.
+
+
+
+
+
+
